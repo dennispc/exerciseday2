@@ -1,0 +1,16 @@
+/home/dp/Documents/School_VSCode/exerciseDay2/bin/Debug/net5.0/exerciseDay2
+/home/dp/Documents/School_VSCode/exerciseDay2/bin/Debug/net5.0/exerciseDay2.deps.json
+/home/dp/Documents/School_VSCode/exerciseDay2/bin/Debug/net5.0/exerciseDay2.runtimeconfig.json
+/home/dp/Documents/School_VSCode/exerciseDay2/bin/Debug/net5.0/exerciseDay2.runtimeconfig.dev.json
+/home/dp/Documents/School_VSCode/exerciseDay2/bin/Debug/net5.0/exerciseDay2.dll
+/home/dp/Documents/School_VSCode/exerciseDay2/bin/Debug/net5.0/ref/exerciseDay2.dll
+/home/dp/Documents/School_VSCode/exerciseDay2/bin/Debug/net5.0/exerciseDay2.pdb
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/exerciseDay2.csproj.AssemblyReference.cache
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/exerciseDay2.GeneratedMSBuildEditorConfig.editorconfig
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/exerciseDay2.AssemblyInfoInputs.cache
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/exerciseDay2.AssemblyInfo.cs
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/exerciseDay2.csproj.CoreCompileInputs.cache
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/exerciseDay2.dll
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/ref/exerciseDay2.dll
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/exerciseDay2.pdb
+/home/dp/Documents/School_VSCode/exerciseDay2/obj/Debug/net5.0/exerciseDay2.genruntimeconfig.cache
